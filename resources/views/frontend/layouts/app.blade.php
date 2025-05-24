@@ -10,14 +10,14 @@
             outline: none;
         }
     </style>
-    <title>Droomedaeris</title>
+    <title>Pheakdey</title>
     <meta content="Jouw partner in storytelling en copywriting by Lucas Medaer" name="description">
-    <meta content="Droomedaeris" property="og:title">
+    <meta content="Pheakdey" property="og:title">
     <meta content="Jouw partner in storytelling en copywriting by Lucas Medaer" property="og:description">
     <meta
         content="https://cdn.prod.website-files.com/656df4fee1930d975ef11120/65820e746e0f7baed9505eb6_Screenshot%202023-12-19%20at%209.42.41%20pm.png"
         property="og:image">
-    <meta content="Droomedaeris" property="twitter:title">
+    <meta content="Pheakdey" property="twitter:title">
     <meta content="Jouw partner in storytelling en copywriting by Lucas Medaer" property="twitter:description">
     <meta
         content="https://cdn.prod.website-files.com/656df4fee1930d975ef11120/65820e746e0f7baed9505eb6_Screenshot%202023-12-19%20at%209.42.41%20pm.png"
