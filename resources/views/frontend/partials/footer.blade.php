@@ -62,9 +62,13 @@
         <h2 class="cap-text"><strong>pheakdeysmith@gmail.com</strong></h2>
         <p class="cap-text">
             Telegram: 0968039670<br>
-            Facebook: <a href="https://web.facebook.com/OwenSmithRexEryn/" target="_blank">Smith</a><br><br>
-            Copyright © <span id="currentYear"></span> | Developed by Pheakdey Smith
+            Facebook: <a href="https://web.facebook.com/OwenSmithRexEryn/" target="_blank"
+                rel="noopener noreferrer">Smith</a><br><br>
+            Copyright © <span id="currentYear"></span> |
+            Developed by <a href="https://droomedaeris.webflow.io/" target="_blank"
+                rel="noopener noreferrer">droomedaeris</a>
         </p>
+
     </div>
 
 </footer>
